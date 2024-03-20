@@ -5,20 +5,26 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
+The MNIST dataset is a collection of handwritten digits.
+MNIST Handwritten Digit Classification Dataset is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9.
+The MNIST dataset, a widely used benchmark for image classification, contains grayscale images of handwritten digits (28x28 pixels). Each image is labeled with the corresponding digit (0-9).
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/c14a135f-20d0-4322-a1e1-e178d39747b6)
 
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Import tensorflow and preprocessing libraries.    
 
 ### STEP 2:
+Load the data and preprocess data.
 
 ### STEP 3:
+Using one hot encode, encode the categorical values.
 
+### STEP 4:
+Compile and fit the model and then predict
 
 ## PROGRAM
 
@@ -100,7 +106,7 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/1010906c-c955-47ab-bfea-caf4d4d2cf91)
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/0a881653-ac18-4c01-9d35-fda8324ceaa6)
 
 ### Classification Report
 ![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/4b2c5e5d-8c69-4ef9-943e-346ebaf589f8)
@@ -109,8 +115,7 @@ print(x_single_prediction)
 ![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/6ee2d688-ab1d-4408-8222-a67689daaa2b)
 
 ### New Sample Data Prediction
-![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/88aac1fc-3f8b-459d-8532-6d7fdbaf1d2c)
-![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/0a881653-ac18-4c01-9d35-fda8324ceaa6)
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/e2fd52b2-5b4a-45c8-866a-e89a1f4d8760)
 
 ## RESULT
-
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
