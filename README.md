@@ -22,29 +22,25 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: CHAITANYA P S
+### Register Number: 212222230024
+```python
 
-
-Include your code here
-
+```
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/1010906c-c955-47ab-bfea-caf4d4d2cf91)
 
 ### Classification Report
-
-Include Classification Report here
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/4b2c5e5d-8c69-4ef9-943e-346ebaf589f8)
 
 ### Confusion Matrix
-
-Include confusion matrix here
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/6ee2d688-ab1d-4408-8222-a67689daaa2b)
 
 ### New Sample Data Prediction
-
-Include your sample input and output for your hand written images.
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/88aac1fc-3f8b-459d-8532-6d7fdbaf1d2c)
+![image](https://github.com/chaitanya18c/mnist-classification/assets/119392724/0a881653-ac18-4c01-9d35-fda8324ceaa6)
 
 ## RESULT
-Include your result here.
+
